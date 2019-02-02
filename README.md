@@ -1,7 +1,7 @@
 # DpiCmdChanger
 Windows tool for chaning DPI value via command line.  
 
-## What it is?
+## What is it?
 This tool is indented to use for people who are frequently chaning DPI value for their monitor.  
 With this tool you can use one command to change DPI, instead of going through Windows Settings app.  
 If you want to define hotkey for that operation, please use tools like [AutoHotKey](https://www.autohotkey.com/).
