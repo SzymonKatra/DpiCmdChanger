@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dpi", "dpi\dpi.vcxproj", "{837F0E5B-6EE1-4B47-97DE-E774AD9E0EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{837F0E5B-6EE1-4B47-97DE-E774AD9E0EAC}.Debug|x64.ActiveCfg = Debug|x64
+		{837F0E5B-6EE1-4B47-97DE-E774AD9E0EAC}.Debug|x64.Build.0 = Debug|x64
+		{837F0E5B-6EE1-4B47-97DE-E774AD9E0EAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{837F0E5B-6EE1-4B47-97DE-E774AD9E0EAC}.Debug|x86.Build.0 = Debug|Win32
+		{837F0E5B-6EE1-4B47-97DE-E774AD9E0EAC}.Release|x64.ActiveCfg = Release|x64
+		{837F0E5B-6EE1-4B47-97DE-E774AD9E0EAC}.Release|x64.Build.0 = Release|x64
+		{837F0E5B-6EE1-4B47-97DE-E774AD9E0EAC}.Release|x86.ActiveCfg = Release|Win32
+		{837F0E5B-6EE1-4B47-97DE-E774AD9E0EAC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A10B6ED-A002-4C49-B065-89811DB02CB3}
+	EndGlobalSection
+EndGlobal
